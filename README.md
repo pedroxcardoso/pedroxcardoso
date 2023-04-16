@@ -1,8 +1,5 @@
 ## Hi there, I'm Pedro Cardoso!🚀
-- 🖥️ I'm been programming for a half-year (always updating this!)
-- 📗 I'm currently learning HTML, CSS, Javascript, Python and SQL!
-- 🎸 I really enjoy playing guitar!
-- 📺 My favorite show is Breaking Bad!
+
 <div align="Left">
   <a href="https://github.com/pedroxcardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroxcardoso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
