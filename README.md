@@ -1,5 +1,4 @@
-## Hi there, I'm Pedro Cardoso!🚀
-
+## Hello! I'm Pedro Cardoso, a System Development Student. Passionate with front-end development and design, I'm currently looking for more experience in the programming area.
 <div align="Left">
   <a href="https://github.com/pedroxcardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroxcardoso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
